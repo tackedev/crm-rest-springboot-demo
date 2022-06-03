@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `employee_directory`;
-USE `employee_directory`;
+CREATE DATABASE  IF NOT EXISTS `crm-demo`;
+USE `crm-demo`;
 
 --
 -- Table structure for table `employee`
